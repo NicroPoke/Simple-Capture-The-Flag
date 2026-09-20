@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east":  { "model": "ctfmod:block/red_flag", "y": 180 },
+    "facing=north": { "model": "ctfmod:block/red_flag", "y": 90 },
+    "facing=south": { "model": "ctfmod:block/red_flag", "y": 270 },
+    "facing=west":  { "model": "ctfmod:block/red_flag" }
+  }
+}
