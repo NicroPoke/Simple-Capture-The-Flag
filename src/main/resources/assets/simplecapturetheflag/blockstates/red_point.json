@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east":  { "model": "simplecapturetheflag:block/red_flag", "y": 180 },
+    "facing=north": { "model": "simplecapturetheflag:block/red_flag", "y": 90 },
+    "facing=south": { "model": "simplecapturetheflag:block/red_flag", "y": 270 },
+    "facing=west":  { "model": "simplecapturetheflag:block/red_flag" }
+  }
+}

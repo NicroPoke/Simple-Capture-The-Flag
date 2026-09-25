@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "simplecapturetheflag:blocks/blue_point",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "simplecapturetheflag:blue_point"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}
